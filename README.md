@@ -19,17 +19,18 @@ I design and build AI-powered systems that automate content creation, SEO, and t
 
 ## 🧠 Featured Project — VivaPortugal AI
 
-**VivaPortugal AI** is an AI-powered Pinterest production system built from real travel photography.
+**VivaPortugal AI** is an AI-powered visual commerce system built from real product and travel imagery, designed to turn images into sell-ready marketing assets.
 
 ### What the system does:
-- Automatically crops images to Pinterest-optimized 2:3 format
-- Detects **location, city, region** from photos
+- Automatically processes real images (no mock data)
+- Crops visuals to Pinterest-optimized 2:3 format
+- Detects **location, city, region, and theme**
 - Generates:
   - SEO titles
   - Pin descriptions
   - Hashtags
   - Recommended Pinterest boards & sections
-- Outputs **ready-to-post JPEG + metadata**
+- Outputs **ready-to-post images + metadata**
 - Designed for **batch processing (100+ images)**
 
 ### Real use case:
@@ -74,3 +75,8 @@ It is suitable for:
 ---
 
 *Building systems that replace manual work with scalable intelligence.*
+
+**AI-powered commerce automation**
+• Pinterest visual pipelines  
+• E-commerce SEO intelligence  
+• Portuguese-themed brand systems
