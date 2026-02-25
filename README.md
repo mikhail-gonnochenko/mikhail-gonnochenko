@@ -1,82 +1,81 @@
 # Mikhail Gonnochenko  
-**AI-Driven Digital Marketing & E-commerce Automation Specialist**
+Junior Digital Marketing & E-commerce Automation (Applied AI)
 
-I design and build AI-powered systems that automate content creation, SEO, and traffic growth — with a strong focus on **Pinterest**, **visual platforms**, and **real-world e-commerce brands**.
+I build applied AI and automation MVPs for real e-commerce use cases,
+with a focus on content workflows, visual platforms (Pinterest),
+and SEO-oriented traffic systems.
 
-📍 Based in Portugal | 🌍 Working globally
-
----
-
-## 🚀 What I Do
-
-- 🤖 AI-powered content automation (images, SEO text, metadata)
-- 📌 Pinterest growth systems (organic traffic & conversion-focused)
-- 🛍️ E-commerce marketing automation (Etsy, Shopify, POD)
-- 📊 Visual SEO & long-term traffic strategy
-- ⚙️ No-code / low-code automation workflows
+📍 Based in Portugal | 🌍 Open to remote and international opportunities
 
 ---
 
-## 🧠 Featured Project — VivaPortugal AI
+## 🚀 What I Work On
 
-**VivaPortugal AI** is an AI-powered visual commerce system built from real product and travel imagery, designed to turn images into sell-ready marketing assets.
+- 🤖 AI-assisted content automation (images, SEO text, metadata)
+- 📌 Pinterest-oriented content workflows and traffic experiments
+- 🛍️ E-commerce marketing support (Etsy, POD-focused projects)
+- 📊 Visual SEO concepts and long-term traffic strategy
+- ⚙️ No-code / low-code automation used in real projects
 
-### What the system does:
-- Automatically processes real images (no mock data)
-- Crops visuals to Pinterest-optimized 2:3 format
-- Detects **location, city, region, and theme**
-- Generates:
-  - SEO titles
+---
+
+## 🧠 Featured Project — VivaPortugal AI (MVP)
+
+**VivaPortugal AI** is an AI-assisted content automation MVP built to support
+a real e-commerce brand focused on Portuguese cultural products.
+
+### What the system supports:
+- Processing of real product and travel images
+- Image preparation in Pinterest-optimized 2:3 format
+- AI-based analysis to generate structured metadata:
+  - SEO-oriented titles
   - Pin descriptions
-  - Hashtags
-  - Recommended Pinterest boards & sections
-- Outputs **ready-to-post images + metadata**
-- Designed for **batch processing (100+ images)**
+  - Keywords and hashtags
+  - Suggested Pinterest boards
+- Output of Pinterest-ready images and metadata
+
+The project was designed to validate content automation workflows
+and reduce manual effort in visual marketing tasks.
 
 ### Real use case:
-A Portuguese cultural brand using organic Pinterest traffic to drive:
-- Etsy sales
+A Portuguese cultural brand using Pinterest as an organic channel for:
 - Brand discovery
 - Long-term evergreen traffic
+- Supporting Etsy store visibility
 
-🔗 **Live Pinterest:** https://www.pinterest.com/vivaportugalstore/  
+🔗 **Pinterest:** https://www.pinterest.com/vivaportugalstore/  
 🛍️ **Etsy Store:** https://vivaportugalstore.etsy.com/
 
 ---
 
-## 🧩 Tech & Tools
+## 🧩 Tools & Concepts Used
 
-- Google AI Studio (custom AI workflows)
-- Prompt engineering (vision + SEO)
-- GitHub (project documentation & versioning)
-- Pinterest SEO & analytics
-- E-commerce platforms (Etsy, Shopify, POD)
+- AI tools for image and content analysis
+- Prompt engineering (vision + SEO-oriented outputs)
+- GitHub for documentation and version control
+- Pinterest SEO concepts and basic analytics
+- E-commerce platforms (Etsy, POD)
 
 ---
 
-## 💼 How This Portfolio Is Used
+## 💼 Purpose of This Portfolio
 
-This GitHub profile documents **real applied AI systems**, not experiments.
+This GitHub profile documents **applied AI and automation MVPs**
+built around real business scenarios.
 
-It is suitable for:
-- Marketing & growth roles
-- AI automation consulting
-- E-commerce projects
-- Freelance & contract work
+It is intended to showcase:
+- practical learning through projects
+- applied AI in marketing contexts
+- automation thinking, not theoretical experiments
 
 ---
 
 ## 📬 Contact & Links
 
+- 💼 LinkedIn: https://www.linkedin.com/in/mikhail-gonnochenko-20030615/
 - 🌐 Etsy: https://vivaportugalstore.etsy.com/
 - 📌 Pinterest: https://www.pinterest.com/vivaportugalstore/
-- 💼 LinkedIn: https://www.linkedin.com/in/mikhail-gonnochenko-20030615/
 
 ---
 
-*Building systems that replace manual work with scalable intelligence.*
-
-**AI-powered commerce automation**
-• Pinterest visual pipelines  
-• E-commerce SEO intelligence  
-• Portuguese-themed brand systems
+*Learning by building applied systems for real-world digital marketing.*
